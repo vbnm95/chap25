@@ -1,0 +1,12 @@
+*.pw
+*.class
+*.swp
+
+# java
+.classpath
+.project
+.settings 
+bin/
+
+# nodejs
+node_modules/
